@@ -126,7 +126,7 @@ body:
         PowerShell
         Windows Developer Mode: UNKNOWN (user cannot read registry)
         
-        NVM4W Version:      1.1.11
+        NVM4W Version:      1.1.13
         NVM4W Path:         C:\Users\username\AppData\Roaming\nvm\nvm.exe
         NVM4W Settings:     C:\Users\username\AppData\Roaming\nvm\settings.txt
         NVM_HOME:           C:\Users\uername\AppData\Roaming\nvm
@@ -143,7 +143,7 @@ body:
         If you only see the standard help menu (as shown below), then you are probably running v1.1.10 or below. Upgrade to NVM4W 1.1.11+.
 
         ```sh
-        Running version 1.1.11.
+        Running version 1.1.13.
         
         Usage:
         
